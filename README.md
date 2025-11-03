@@ -77,7 +77,7 @@ INSERT INTO DEPARTMENTS VALUES
 * Press the shortcut Ctrl + Enter (or Cmd + Enter).
 * The results will appear in the Results tab at the bottom of the screen.
 
-## Sample quries with output
+## Sample queries with output
 ### 1. Display the courses with students enrollment.
 select 
  s.name, 
